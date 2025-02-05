@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/365765679684294909/178a772825674fbdb862a7a88851b0e8/artifacts
+end_time: 1738517264089
+entry_point_name: ''
+experiment_id: '365765679684294909'
+lifecycle_stage: active
+run_id: 178a772825674fbdb862a7a88851b0e8
+run_name: amazing-cow-523
+run_uuid: 178a772825674fbdb862a7a88851b0e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738517260119
+status: 3
+tags: []
+user_id: rizwan
