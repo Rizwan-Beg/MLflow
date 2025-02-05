@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rizwan/Devlopment/MLops/MLflow/mlruns/638549181917030686/25dba7870ede4ca1986e5859f22141da/artifacts
+end_time: 1738750375786
+entry_point_name: ''
+experiment_id: '638549181917030686'
+lifecycle_stage: active
+run_id: 25dba7870ede4ca1986e5859f22141da
+run_name: smiling-hound-361
+run_uuid: 25dba7870ede4ca1986e5859f22141da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738750375761
+status: 3
+tags: []
+user_id: rizwan

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rizwan/Devlopment/MLops/MLflow/mlruns/638549181917030686/ef139ca2a14c4087a715a58df946f8f9/artifacts
+end_time: 1738750375701
+entry_point_name: ''
+experiment_id: '638549181917030686'
+lifecycle_stage: active
+run_id: ef139ca2a14c4087a715a58df946f8f9
+run_name: resilient-pug-158
+run_uuid: ef139ca2a14c4087a715a58df946f8f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738750375688
+status: 3
+tags: []
+user_id: rizwan

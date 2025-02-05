@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rizwan/Devlopment/MLops/MLflow/mlruns/638549181917030686/f57ef5f2d433428b84e55e2c00b007ba/artifacts
+end_time: 1738750375814
+entry_point_name: ''
+experiment_id: '638549181917030686'
+lifecycle_stage: active
+run_id: f57ef5f2d433428b84e55e2c00b007ba
+run_name: bright-crow-1000
+run_uuid: f57ef5f2d433428b84e55e2c00b007ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738750375805
+status: 3
+tags: []
+user_id: rizwan

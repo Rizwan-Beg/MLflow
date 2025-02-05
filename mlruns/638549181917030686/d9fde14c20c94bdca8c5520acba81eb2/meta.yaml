@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rizwan/Devlopment/MLops/MLflow/mlruns/638549181917030686/d9fde14c20c94bdca8c5520acba81eb2/artifacts
+end_time: 1738750375760
+entry_point_name: ''
+experiment_id: '638549181917030686'
+lifecycle_stage: active
+run_id: d9fde14c20c94bdca8c5520acba81eb2
+run_name: respected-mole-546
+run_uuid: d9fde14c20c94bdca8c5520acba81eb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738750375751
+status: 3
+tags: []
+user_id: rizwan

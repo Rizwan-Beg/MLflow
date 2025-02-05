@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rizwan/Devlopment/MLops/MLflow/mlruns/638549181917030686/9db63d0138474350a51d44df07f7b932/artifacts
+end_time: 1738750375662
+entry_point_name: ''
+experiment_id: '638549181917030686'
+lifecycle_stage: active
+run_id: 9db63d0138474350a51d44df07f7b932
+run_name: unequaled-lamb-956
+run_uuid: 9db63d0138474350a51d44df07f7b932
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738750375636
+status: 3
+tags: []
+user_id: rizwan

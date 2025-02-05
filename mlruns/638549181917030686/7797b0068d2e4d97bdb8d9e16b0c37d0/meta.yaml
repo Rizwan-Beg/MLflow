@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rizwan/Devlopment/MLops/MLflow/mlruns/638549181917030686/7797b0068d2e4d97bdb8d9e16b0c37d0/artifacts
+end_time: 1738750375804
+entry_point_name: ''
+experiment_id: '638549181917030686'
+lifecycle_stage: active
+run_id: 7797b0068d2e4d97bdb8d9e16b0c37d0
+run_name: learned-cub-239
+run_uuid: 7797b0068d2e4d97bdb8d9e16b0c37d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738750375788
+status: 3
+tags: []
+user_id: rizwan

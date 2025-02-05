@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rizwan/Devlopment/MLops/MLflow/mlruns/638549181917030686/f3ec37aab1ed4ad5afc0e4dc7bcf267c/artifacts
+end_time: 1738750375635
+entry_point_name: ''
+experiment_id: '638549181917030686'
+lifecycle_stage: active
+run_id: f3ec37aab1ed4ad5afc0e4dc7bcf267c
+run_name: sassy-sheep-198
+run_uuid: f3ec37aab1ed4ad5afc0e4dc7bcf267c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738750375621
+status: 3
+tags: []
+user_id: rizwan

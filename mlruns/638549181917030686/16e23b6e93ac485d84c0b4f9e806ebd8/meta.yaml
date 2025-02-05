@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rizwan/Devlopment/MLops/MLflow/mlruns/638549181917030686/16e23b6e93ac485d84c0b4f9e806ebd8/artifacts
+end_time: 1738750375722
+entry_point_name: ''
+experiment_id: '638549181917030686'
+lifecycle_stage: active
+run_id: 16e23b6e93ac485d84c0b4f9e806ebd8
+run_name: adaptable-crane-253
+run_uuid: 16e23b6e93ac485d84c0b4f9e806ebd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738750375702
+status: 3
+tags: []
+user_id: rizwan

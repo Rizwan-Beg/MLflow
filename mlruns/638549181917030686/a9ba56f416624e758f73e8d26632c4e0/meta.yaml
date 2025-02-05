@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rizwan/Devlopment/MLops/MLflow/mlruns/638549181917030686/a9ba56f416624e758f73e8d26632c4e0/artifacts
+end_time: 1738750378338
+entry_point_name: ''
+experiment_id: '638549181917030686'
+lifecycle_stage: active
+run_id: a9ba56f416624e758f73e8d26632c4e0
+run_name: legendary-hog-988
+run_uuid: a9ba56f416624e758f73e8d26632c4e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738750373311
+status: 3
+tags: []
+user_id: rizwan

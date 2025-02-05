@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rizwan/Devlopment/MLops/MLflow/mlruns/638549181917030686/9384b66a04bd4b8480fd663e8cd4ccba/artifacts
+end_time: 1738750375619
+entry_point_name: ''
+experiment_id: '638549181917030686'
+lifecycle_stage: active
+run_id: 9384b66a04bd4b8480fd663e8cd4ccba
+run_name: handsome-fish-872
+run_uuid: 9384b66a04bd4b8480fd663e8cd4ccba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738750375600
+status: 3
+tags: []
+user_id: rizwan

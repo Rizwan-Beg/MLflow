@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rizwan/Devlopment/MLops/MLflow/mlruns/638549181917030686/78bd6ebdd79e41b3ab979edc1eeee4e2/artifacts
+end_time: 1738750375687
+entry_point_name: ''
+experiment_id: '638549181917030686'
+lifecycle_stage: active
+run_id: 78bd6ebdd79e41b3ab979edc1eeee4e2
+run_name: upset-pig-374
+run_uuid: 78bd6ebdd79e41b3ab979edc1eeee4e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738750375663
+status: 3
+tags: []
+user_id: rizwan
